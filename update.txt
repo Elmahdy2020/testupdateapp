@@ -1,0 +1,2 @@
+version=1.2.0
+url=https://yourwebsite.com/MyApp_v1.2.0.zip
