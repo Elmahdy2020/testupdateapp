@@ -1,2 +1,2 @@
-version=1.0.2
-url=https://github.com/Elmahdy2020/testupdateapp/blob/main/MyApp_v1.0.2.zip
+version=1.0.3
+url=https://raw.githubusercontent.com/Elmahdy2020/testupdateapp/refs/heads/main/MyApp_v1.0.3.zip
