@@ -1,2 +1,2 @@
 version=1.0.2
-url=https://yourwebsite.com/MyApp_v1.0.2.zip
+url=https://github.com/Elmahdy2020/testupdateapp/blob/main/MyApp_v1.0.2.zip
