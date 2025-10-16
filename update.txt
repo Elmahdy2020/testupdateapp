@@ -1,3 +1,4 @@
-version=1.5.0
+version=2.1.0
 url=https://raw.githubusercontent.com/Elmahdy2020/testupdateapp/refs/heads/main/MyApp_v1.5.0.zip
+
 
