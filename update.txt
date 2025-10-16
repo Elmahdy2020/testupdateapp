@@ -1,5 +1,6 @@
 version=2.1.0
-url=https://raw.githubusercontent.com/Elmahdy2020/testupdateapp/refs/heads/main/test.zip
+url=https://raw.githubusercontent.com/Elmahdy2020/testupdateapp/refs/heads/main/eeeeeeeeeeeeee.zip
+
 
 
 
